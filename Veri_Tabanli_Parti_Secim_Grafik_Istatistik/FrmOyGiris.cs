@@ -33,5 +33,11 @@ namespace Veri_Tabanli_Parti_Secim_Grafik_Istatistik
             MessageBox.Show("Oy Girişi Gerçekleşti.");
 
         }
+
+        private void BtnGrafikler_Click(object sender, EventArgs e)
+        {
+            FrmGrafikler fr=new FrmGrafikler();
+            fr.Show();
+        }
     }
 }

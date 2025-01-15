@@ -159,6 +159,7 @@
             this.BtnGrafikler.TabIndex = 14;
             this.BtnGrafikler.Text = "GRAFİKLER";
             this.BtnGrafikler.UseVisualStyleBackColor = true;
+            this.BtnGrafikler.Click += new System.EventHandler(this.BtnGrafikler_Click);
             // 
             // BtnCikisYap
             // 
