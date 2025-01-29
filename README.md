@@ -20,6 +20,8 @@ Bu proje, C# ile Windows Forms kullanarak geliştirilen bir oy sayım ve görsel
  <h2>📸 Ekran Görüntüleri</h2>
 
  Ana Sayfa - Oy Girişi
+ </br>
+ ![](AnaSayfa.png)
  
 
 
