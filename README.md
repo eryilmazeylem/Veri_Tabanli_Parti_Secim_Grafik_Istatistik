@@ -22,7 +22,20 @@ Bu proje, C# ile Windows Forms kullanarak geliştirilen bir oy sayım ve görsel
  Ana Sayfa - Oy Girişi
  </br>
  ![](AnaSayfa.png)
- 
+
+ Grafikler
+ </br>
+ ![](Detaylar.png)
+
+<h2>🔥 Kullanım</h2> 
+<ul>
+ <li>1.İlçe adını girin.</li>
+ <li>2.Partilere oy miktarlarını girin.</li>
+ <li>3."Oy Girişi Yap" butonuna basarak verileri kaydedin.</li>
+ <li>4."Grafikler" butonuna tıklayarak görselleştirilmiş verileri inceleyin.</li>
+</ul>
+
+
 
 
 
